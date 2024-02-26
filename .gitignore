@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-dataset/
+Datasets/
 database.sqlite/
 
 # C extensions
